@@ -1,0 +1,11 @@
+1001, John Doe, Software Engineer, 75000
+1003, John Doe, Software Engineer, 75000
+13, Asadbek,Sake,160
+1002, alex , sales,20000
+12, name, Manager, 340.0
+102, as, as, 102.015 
+200, qwerty, qwerty, 120.0
+10002, asd, asd, 12.0
+109, qwer, qwe, 14.0
+106, asd, qwert, 1234.0
+14, qwer, qwer, 15.0
